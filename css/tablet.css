@@ -1,0 +1,27 @@
+@media (max-width: 745px) {
+
+    /* header */
+    header {
+        padding-inline: 24px;
+    }
+}
+
+
+@media (max-width: 645px) {
+ 
+
+    .header_ul{
+        display: none;
+    }
+.header_button{
+display: none;
+}
+
+   .burgericon{
+    display: flex;
+   }
+
+   .section_first{
+    padding-inline: 22px;
+   }
+}
