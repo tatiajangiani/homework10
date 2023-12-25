@@ -4,11 +4,24 @@
     header {
         padding-inline: 24px;
     }
+
+    /* section2 */
+    .section_second_box{
+        flex-direction: column;
+        text-align: center;
+    }
+.section_second_title{
+    width: 100%;
+}
+.section_second_text{
+    width: 100%;
+}
 }
 
 
 @media (max-width: 645px) {
  
+
 
     .header_ul{
         display: none;
@@ -24,4 +37,5 @@ display: none;
    .section_first{
     padding-inline: 22px;
    }
+   
 }

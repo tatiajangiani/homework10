@@ -102,3 +102,38 @@ width: 100px;
 height: 48px;
 }
 
+/* section */
+.section_second{
+    height: 520px;
+    display: flex;
+    align-items: center;
+    column-gap: 160px;
+    padding: 60px 150px;
+    background: #000;
+}
+
+.photo_section_second{
+    height: 400px;
+width: 490px;
+}
+
+.section_second_title{
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 900;
+line-height: 32px; /* 133.333% */
+letter-spacing: -0.1px;
+margin-bottom: 20px;
+}
+
+.section_second_text{
+    color: #FFF;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 150% */
+letter-spacing: 0.1px;
+}
