@@ -1,0 +1,16 @@
+@media (max-width: 480px) {
+     /* footer */
+     footer {
+        align-items: center;
+    }
+
+    .nav1{
+        width: 33%;
+        text-align: center;
+    }
+
+    .footer_box {
+        column-gap: 10px;
+        width: 100%;
+    }
+}
