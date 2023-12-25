@@ -16,6 +16,26 @@
 .section_second_text{
     width: 100%;
 }
+
+/* section2 */
+.section_three{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+row-gap: 20px;
+}
+
+    .box_header{
+    
+        width: 100%;
+    }
+    .box_title{
+        width: 100%;
+    }
+    .box_text{
+        width: 100%;
+    }
+
 }
 
 

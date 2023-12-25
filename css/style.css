@@ -137,3 +137,45 @@ font-weight: 400;
 line-height: 24px; /* 150% */
 letter-spacing: 0.1px;
 }
+
+
+/* section2 */
+.section_three{
+    padding: 80px 150px;
+    display: flex;
+    column-gap: 30px;
+}
+
+.box1{
+    background: #E3DAD8;
+}
+.box_header{
+    display: flex;
+    column-gap: 16px;
+    align-items: center;
+}
+
+.circle{
+    width: 40px;
+    height: 40px;
+}
+
+
+.box_title{
+    color: #000;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 28px; /* 155.556% */
+}
+.box_text{
+    color: #000;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 150% */
+letter-spacing: 0.1px;
+margin-top: 16px;
+}
